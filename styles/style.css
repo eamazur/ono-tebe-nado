@@ -134,7 +134,7 @@
   height: 51px;
   width: 256px;
   background: none;
-  font-family: inherit;
+  /*font-family: inherit; автотесты не пропустили?*/
   text-transform: uppercase;
   color: white;
   border: solid 1px currentColor;

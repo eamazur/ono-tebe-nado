@@ -86,7 +86,6 @@
 
 .cover__title {
   display: grid;
-  /*grid-template-rows: 100px 100px 100px;*/
   gap: 6px;
   z-index: 1;
   color: white;
@@ -114,7 +113,6 @@
 .cover__description {
   display: grid;
   grid-template-columns: 1fr 256px;
-  /*grid-template-rows: 50px;*/
   padding-left: 28px;
   align-items: center;
   z-index: 1;
@@ -134,7 +132,7 @@
   height: 51px;
   width: 256px;
   background: none;
-  /*font-family: inherit; автотесты не пропустили?*/
+  font-family: Raleway, sans-serif;
   text-transform: uppercase;
   color: white;
   border: solid 1px currentColor;
